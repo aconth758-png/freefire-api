@@ -1,0 +1,9 @@
+{
+  "name": "vinzz-proxy",
+  "version": "1.0.0",
+  "description": "Proxy Free Fire - Headshot Leher by Vinzz",
+  "main": "api/index.js",
+  "dependencies": {
+    "@vercel/node": "^2.0.0"
+  }
+}
