@@ -31,5 +31,3 @@ module.exports = (req, res) => {
   "is_review_server": false
 }`);
 };
-
-begini ga eror
