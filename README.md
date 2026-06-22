@@ -1,1 +1,1 @@
-# freefire-api
+# freefire-neckhs
